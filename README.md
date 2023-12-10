@@ -15,7 +15,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://github.com/Academeq/pictures/blob/main/Tux_Enhanced.svg.png" width="300" height="200" />
+<img align="right" alt="GIF" src="https://github.com/Academeq/pictures/blob/main/Tux_Enhanced.svg.png" width="300" height="280" />
   
 **Languages and Tools:**  
 
